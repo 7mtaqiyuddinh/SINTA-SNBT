@@ -39,7 +39,7 @@ Halaman utama berisi percakapan. Sidebar dipakai untuk:
 - menghapus proyek atau sesi aktif,
 - melihat ringkasan sesi,
 - melihat log kuis terakhir,
-- mengatur API Gemini,
+- mengatur API Gemini (Future Update: OpenAI API),
 - memilih mapel dan tingkat kesulitan,
 - mengaktifkan pencarian web,
 - mengunggah PDF,
