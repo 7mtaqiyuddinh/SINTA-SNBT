@@ -1,5 +1,6 @@
 # SINTA - SNBT Intelligent Tutor Assistant
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 SINTA adalah aplikasi tutor SNBT berbasis Streamlit. Aplikasi ini membantu pengguna bertanya materi, meminta latihan soal, mengecek jawaban, membaca pembahasan, mengelola sesi belajar, dan menyimpan riwayat secara offline di SQLite.
 
 Fokus produk:
