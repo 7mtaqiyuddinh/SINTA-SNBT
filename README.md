@@ -197,6 +197,3 @@ Jika `python` di Windows mengarah ke Microsoft Store stub dan gagal, gunakan int
 - State sesi sengaja dibuat compact agar `state_json` tidak membuat database membesar ekstrem.
 - `messages.content` tetap menyimpan jawaban penuh.
 
-## Lisensi
-
-Belum ditetapkan.
